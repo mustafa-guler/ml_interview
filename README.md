@@ -18,6 +18,7 @@ More information can be found about amino acids in `data/amino_acid_codes.tsv`.
 
 Your task is to predict the recruited amino acid from the A-domain sequence.
 You are free to use any model, any data featurization, and any data splitting you like.
+However, one of the models is required to be a neural network built using PyTorch.
 A previously successful method is described [in this paper](https://academic.oup.com/nar/article/39/suppl_2/W362/2506164).
 All attempted models should be documented along with their results.
 
